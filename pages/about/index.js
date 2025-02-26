@@ -43,7 +43,7 @@ export const aboutData = [
     title: 'experience',
     info: [
       {
-        title: 'Intern - Shaukat Khanum Hospital',
+        title: 'Data Analyst Intern - Shaukat Khanum Hospital',
         stage: 'June 2023 - August 2023',
       },
       {
@@ -65,7 +65,7 @@ export const aboutData = [
       },
       {
         title: 'BS Software Engineering - Lahore Garrision University',
-        stage: '2020-2024',
+        stage: 'FA-2020-FA-2024',
       },
       {
         title: 'Certified Graphic Designer - Udemy',
