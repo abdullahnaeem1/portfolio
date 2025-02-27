@@ -64,7 +64,7 @@ const Contact = () => {
             exit="hidden"
             className="h2 text-center mb-12"
           >
-            Let's <span className="text-accent">connect.</span>
+            Let&apos;s <span className="text-accent">connect.</span>
           </motion.h2>
 
           <motion.form
@@ -74,7 +74,7 @@ const Contact = () => {
             exit="hidden"
             className="flex-1 flex flex-col gap-6 w-full mx-auto"
           >
-            {/* input group */}
+            {/* Input group */}
             <div className="flex gap-x-6 w-full">
               <input
                 type="text"
@@ -104,7 +104,7 @@ const Contact = () => {
             {/* Button */}
             <button className="btn relative rounded-full border border-white/50 max-w-[170px] px-8 transition-all duration-300 flex items-center justify-center overflow-hidden hover:border-accent group">
               <span className="transition-all duration-500 group-hover:-translate-y-[120%] group-hover:opacity-0">
-                Let's talk
+                Let&apos;s talk
               </span>
               <BsArrowRight className="absolute opacity-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-y-0 text-[22px]" />
             </button>
@@ -116,4 +116,5 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
